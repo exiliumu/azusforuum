@@ -1,0 +1,17 @@
+body {
+  background-color: dark grey;
+  color: orange;
+  font-family: monospace;
+}
+
+#terminal {
+  padding: 1em;
+}
+
+input {
+  background-color: black;
+  color: orange;
+  border: none;
+  border-bottom: 1px solid orange;
+  width: 100%;
+}
