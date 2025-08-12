@@ -10,8 +10,9 @@ body {
 
 input {
   background-color: black;
-  color: orange;
+  color: purple;
   border: none;
   border-bottom: 1px solid orange;
   width: 100%;
 }
+
